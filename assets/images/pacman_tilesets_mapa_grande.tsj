@@ -1,0 +1,14 @@
+{ "columns":4,
+ "image":"..\/..\/mapa\/pacman tilesets.png",
+ "imageheight":280,
+ "imagewidth":805,
+ "margin":0,
+ "name":"pacman tilesets",
+ "spacing":0,
+ "tilecount":8,
+ "tiledversion":"1.9.0",
+ "tileheight":140,
+ "tilewidth":200,
+ "type":"tileset",
+ "version":"1.8"
+}
